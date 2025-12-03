@@ -17,7 +17,8 @@
 - All of my projects are available here on GitHub:  
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
--  How to reach me:  
+-  How to reach me:
+-  **kambalapallekasireddy@gmail.com** 
    **[Mail](kambalapallekasireddy@gmail.com)**
    [LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)
 
