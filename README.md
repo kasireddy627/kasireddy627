@@ -6,6 +6,7 @@
 -  I’m currently learning **Data Analytics & Machine Learning**
 
 - Working on projects:
+  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)**
   - Customer Churn Prediction  
   - Sales Forecasting  
   - Fraud Detection  
@@ -18,9 +19,9 @@
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
 -  How to reach me:
--  **kambalapallekasireddy@gmail.com** 
-   **[Mail](mailto:kambalapallekasireddy@gmail.com)**
-   [LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)
+   -  [Call me](tel:+919182052360) 
+   -  **[Mail](mailto:kambalapallekasireddy@gmail.com)**
+   -  **[LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)**
 
 - Fun fact: **I love automating tasks—the moment something repeats, I write a script 😄**
 
