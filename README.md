@@ -18,7 +18,7 @@
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
 -  How to reach me:  
-   [Mail](kambalapallekasireddy@gmail.com)
+   **[Mail](kambalapallekasireddy@gmail.com)**
    [LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)
 
 - Fun fact: **I love automating tasks—the moment something repeats, I write a script 😄**
