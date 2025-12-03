@@ -19,7 +19,7 @@
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
 -  How to reach me:
-   -  [Call me](tel:+919182052360) 
+   -  📱 [Call me](tel:+919182052360)
    -  **[Mail](mailto:kambalapallekasireddy@gmail.com)**
    -  **[LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)**
 
