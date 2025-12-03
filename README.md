@@ -12,16 +12,16 @@
   - Emotion Detection (Computer Vision)  
   - RAG-based Intelligent Chatbot  
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Automation, DSA**
+- 💬 Ask me about **Python, Data Science, Machine Learning, Automation**
 
-- 📂 All of my projects are available here on GitHub:  
+- All of my projects are available here on GitHub:  
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
 -  How to reach me:  
-   **kambalapallekasireddy@gmail.com*
-   **[LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)**
+   [Mail](kambalapallekasireddy@gmail.com)
+   [LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)
 
-- ⚡ Fun fact: **I love automating tasks—the moment something repeats, I write a script 😄**
+- Fun fact: **I love automating tasks—the moment something repeats, I write a script 😄**
 
 ---
 
