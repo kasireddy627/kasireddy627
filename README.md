@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Python, Data Structures, Data Analytics & Machine Learning**
+-  I’m currently learning **Data Analytics & Machine Learning**
 
-- 🚀 Working on projects:
+- Working on projects:
   - Customer Churn Prediction  
   - Sales Forecasting  
   - Fraud Detection  
@@ -17,15 +17,15 @@
 - 📂 All of my projects are available here on GitHub:  
   👉 **[kasireddy627](https://github.com/kasireddy627)**
 
-- 📫 How to reach me:  
-  📧 **kambalapallekasireddy@gmail.com**  
-  🔗 **[LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)**
+-  How to reach me:  
+   **kambalapallekasireddy@gmail.com*
+   **[LinkedIn](https://www.linkedin.com/in/kambalapallekasireddy)**
 
 - ⚡ Fun fact: **I love automating tasks—the moment something repeats, I write a script 😄**
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
 <img src="https://img.icons8.com/color/48/python.png" width="40"/>
