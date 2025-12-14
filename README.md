@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kambalapalle Kasi Reddy</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer | ML Enthusiast</h3>
 
----
-
--  I’m currently learning **Data Analytics & Machine Learning**
 
 - Working on projects:
   -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)**
@@ -13,7 +10,7 @@
   - Emotion Detection (Computer Vision)  
   - RAG-based Intelligent Chatbot  
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Automation**
+- Ask me about **Python, Data Science, Machine Learning, Automation**
 
 - All of my projects are available here on GitHub:  
   👉 **[kasireddy627](https://github.com/kasireddy627)**
