@@ -3,12 +3,7 @@
 
 
 - Working on projects:
-  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)**
-  - Customer Churn Prediction  
-  - Sales Forecasting  
-  - Fraud Detection  
-  - Emotion Detection (Computer Vision)  
-  - RAG-based Intelligent Chatbot  
+  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)** 
 
 - Ask me about **Python, Data Science, Machine Learning, Automation**
 
