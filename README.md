@@ -2,8 +2,10 @@
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer | ML Enthusiast</h3>
 
 
-- Working on projects:
-  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)** 
+- Worked on projects:
+  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)**
+  -  **[Customer Churn Prediction and Risk Engine](https://customer-retention-intelligence-model.streamlit.app/)**
+  -  **[Multi Classification System](https://newsarticleclassificationtfidf.streamlit.app/)**
 
 - Ask me about **Python, Data Science, Machine Learning, Automation**
 
