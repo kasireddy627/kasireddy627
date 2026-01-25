@@ -3,7 +3,7 @@
 
 
 - Worked on projects:
-  -  **[Online Learning Platform](https://online-learning-platform-8o7u.onrender.com)**
+  -  **LEARNING MANAGEMENT SYSTEM - Full Stack Application**
   -  **[Customer Churn Prediction and Risk Engine](https://customer-retention-intelligence-model.streamlit.app/)**
   -  **[Multi Classification System](https://newsarticleclassificationtfidf.streamlit.app/)**
 
