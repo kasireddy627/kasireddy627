@@ -2,16 +2,16 @@
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer | ML Enthusiast</h3>
 
 <p align="center">
-I build data-driven solutions, machine learning models, and automation tools that solve real-world problems.
+Building data-driven solutions, machine learning models, and automation tools.
 </p>
 
 ---
 
 ## About Me
 
-- Aspiring **Data Scientist** with hands-on experience in **Machine Learning, NLP, and Data Analytics**
-- Strong foundation in **Python, SQL, statistics, and model deployment**
-- Built and deployed multiple **end-to-end machine learning applications**
+- Aspiring **Data Scientist** with hands-on experience in **Machine Learning, NLP, and Analytics**
+- Strong in **Python, SQL, statistics, and model deployment**
+- Built and deployed multiple **end-to-end ML applications**
 - Passionate about **automation, predictive modeling, and data storytelling**
 - Open to **Data Analyst, Data Scientist, Python Developer, and ML Engineer roles**
 
@@ -20,86 +20,85 @@ I build data-driven solutions, machine learning models, and automation tools tha
 ## Featured Live Projects
 
 ### News Article Classification (TF-IDF)
-- Multi-class NLP model that classifies news into categories
-- Text preprocessing, TF-IDF vectorization, and machine learning classification
-- Deployed interactive prediction interface
+- Multi-class NLP model using TF-IDF and machine learning
+- End-to-end text preprocessing and deployment
 
-🔗 Live App  
-https://newsarticleclassificationtfidf.streamlit.app/
+🔗 https://newsarticleclassificationtfidf.streamlit.app/
 
 ---
 
 ### Customer Retention Intelligence Model
-- Predicts customer churn using machine learning
-- Provides risk scores and business insights
-- Built end-to-end pipeline from data processing to deployment
+- Customer churn prediction system
+- Risk scoring and business insights
 
-🔗 Live App  
-https://customer-retention-intelligence-model.streamlit.app/
+🔗 https://customer-retention-intelligence-model.streamlit.app/
 
 ---
 
 ### Image Classification using SVM
-- Image classification model using Support Vector Machine
-- Feature extraction and supervised learning approach
-- Interactive deployment for image prediction
+- Image classification using Support Vector Machine
+- Interactive deployment for predictions
 
-🔗 Live App  
-https://image-classification-using-svm.streamlit.app/
+🔗 https://image-classification-using-svm.streamlit.app/
 
 ---
 
 ### Sentiment Analysis NLP System
-- Natural Language Processing model for sentiment detection
-- Text preprocessing, vectorization, and classification pipeline
-- Real-time prediction via deployed web interface
+- NLP-based sentiment prediction pipeline
+- Real-time predictions via web interface
 
-🔗 Live App  
-https://13.62.98.75:5000/
+🔗 https://13.62.98.75:5000/
 
 ---
 
-### Digital Learning Course Management System (Full Stack)
-- Complete learning platform with structured course hierarchy
-- Admin panel for technology, modules, and content management
-- Authentication, course navigation, and dynamic content system
+### Digital Learning Course Management System
+- Full-stack LMS with structured course hierarchy
+- Admin panel and authentication system
 
-🔗 Live App  
-https://digital-learning-course-management-system.onrender.com
+🔗 https://digital-learning-course-management-system.onrender.com
 
 ---
 
 ## Tech Stack
 
-### Programming
-- Python
-- SQL
-- Java (Basic)
+### Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-Basic-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ### Data Science & Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
-- NLP (TF-IDF, Text Classification)
-- SVM, Classification Models
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-TFIDF-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SVM-Classification-green?style=for-the-badge"/>
+</p>
 
 ### Visualization
-- Matplotlib
-- Seaborn
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
 ### Tools & Platforms
-- Git & GitHub
-- Streamlit
-- Jupyter Notebook
-- VS Code
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## Current Focus
 - Advanced machine learning projects
-- Real-world data analytics case studies
+- Real-world analytics case studies
 - Model deployment and MLOps basics
-- Automation with Python
+- Python automation tools
 
 ---
 
@@ -125,7 +124,7 @@ https://digital-learning-course-management-system.onrender.com
 ---
 
 ## Career Objective
-To leverage data science, machine learning, and analytics skills to build intelligent systems that drive business impact and decision-making.
+To build intelligent data-driven systems that create measurable business impact.
 
 ---
 
