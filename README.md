@@ -21,40 +21,35 @@ Building data-driven solutions, machine learning models, and automation tools.
 
 ### News Article Classification (TF-IDF)
 - Multi-class NLP model using TF-IDF and machine learning
-- End-to-end text preprocessing and deployment
-
+- End-to-end text preprocessing and deployment  
 🔗 https://newsarticleclassificationtfidf.streamlit.app/
 
 ---
 
 ### Customer Retention Intelligence Model
 - Customer churn prediction system
-- Risk scoring and business insights
-
+- Risk scoring and business insights  
 🔗 https://customer-retention-intelligence-model.streamlit.app/
 
 ---
 
 ### Image Classification using SVM
 - Image classification using Support Vector Machine
-- Interactive deployment for predictions
-
+- Interactive deployment for predictions  
 🔗 https://image-classification-using-svm.streamlit.app/
 
 ---
 
 ### Sentiment Analysis NLP System
 - NLP-based sentiment prediction pipeline
-- Real-time predictions via web interface
-
+- Real-time predictions via web interface  
 🔗 https://13.62.98.75:5000/
 
 ---
 
 ### Digital Learning Course Management System
 - Full-stack LMS with structured course hierarchy
-- Admin panel and authentication system
-
+- Admin panel and authentication system  
 🔗 https://digital-learning-course-management-system.onrender.com
 
 ---
@@ -65,22 +60,24 @@ Building data-driven solutions, machine learning models, and automation tools.
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Basic-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### Data Science & Machine Learning
+### Data Science & AI
 <p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-228B22?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-TFIDF-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SVM-Classification-green?style=for-the-badge"/>
 </p>
 
 ### Visualization
 <p>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ### Tools & Platforms
