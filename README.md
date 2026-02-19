@@ -1,4 +1,72 @@
-<h1 align="center">Hi 👋, I'm Kambalapalle Kasi Reddy</h1>
+# 🚀 Hi, I'm Kambalapalle Kasi Reddy
+### **Data Scientist | ML Engineer | Python Developer**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kambalapallekasireddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kambalapallekasireddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kasireddy627"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ About Me
+I am a results-driven **Aspiring Data Scientist** passionate about turning raw data into actionable business intelligence. My expertise lies in building end-to-end Machine Learning pipelines—from data ingestion and preprocessing to model deployment and monitoring.
+
+- 🔭 **Current Focus:** Advanced MLOps and Predictive Analytics.
+- 💡 **Philosophy:** "If a task repeats twice, I automate it."
+- 🌱 **Learning:** Deep Learning architectures and Cloud Deployment (AWS/Azure).
+- 💬 **Ask me about:** Python automation, NLP, and Churn Prediction.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python (Advanced)` • `SQL` • `R (Basics)` |
+| **Data Science** | `Pandas` • `NumPy` • `Scikit-Learn` • `SciPy` • `Statistics` |
+| **AI & ML** | `Machine Learning` • `NLP (TF-IDF, Word2Vec)` • `Computer Vision` • `SVM` |
+| **Visualization** | `Power BI` • `Matplotlib` • `Seaborn` • `Plotly` |
+| **DevOps & Tools** | `Git` • `Docker` • `Streamlit` • `Flask` • `VS Code` • `Jupyter` |
+
+---
+
+## 🏗️ Featured Live Projects
+*Click the links to interact with the live deployments.*
+
+### 🔍 [Customer Retention Intelligence](https://customer-retention-intelligence-model.streamlit.app/)
+> **Problem:** High customer churn reducing MRR.  
+> **Solution:** Built a risk-scoring ML model to identify "at-risk" customers using behavioral data.  
+> **Stack:** Python, XGBoost, Streamlit.
+
+### 📰 [News Article Classification](https://newsarticleclassificationtfidf.streamlit.app/)
+> **Problem:** Manual categorization of large-scale text data is inefficient.  
+> **Solution:** An NLP-driven system using TF-IDF vectorization to classify news into 5+ categories.  
+> **Stack:** Scikit-Learn, NLP, TF-IDF.
+
+### 🖼️ [SVM Image Classifier](https://image-classification-using-svm.streamlit.app/)
+> **Problem:** Efficiently classifying visual data without heavy deep learning overhead.  
+> **Solution:** High-performance Support Vector Machine (SVM) implementation for real-time image recognition.  
+> **Stack:** OpenCV, SVM, Scikit-Image.
+
+---
+
+## 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kasireddy627&show_icons=true&theme=dracula&count_private=true" alt="Kasi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasireddy627&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Collaborate!
+- **Location:** India 🇮🇳
+- **Mobile:** [+91 91820 52360](tel:+919182052360)
+- **Portfolio:** [Check out my GitHub Repositories](https://github.com/kasireddy627?tab=repositories)
+
+*"Data is the new oil, but only if you know how to refine it."*
+
+<!-- <h1 align="center">Hi 👋, I'm Kambalapalle Kasi Reddy</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer | ML Enthusiast</h3>
 
 <p align="center">
@@ -114,4 +182,4 @@ To build intelligent data-driven systems that create measurable business impact.
 ---
 
 ## Fun Fact
-If a task repeats twice, I automate it.
+If a task repeats twice, I automate it. -->
