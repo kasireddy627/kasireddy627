@@ -44,14 +44,6 @@ Building data-driven solutions, machine learning models, and automation tools.
 - NLP-based sentiment prediction pipeline
 - Real-time predictions via web interface  
 🔗 https://13.62.98.75:5000/
-
----
-
-### Digital Learning Course Management System
-- Full-stack LMS with structured course hierarchy
-- Admin panel and authentication system  
-🔗 https://digital-learning-course-management-system.onrender.com
-
 ---
 
 ## Tech Stack
